@@ -1,0 +1,108 @@
+{
+    "Latitude": {
+      "min": -90,
+      "max": 90
+    },
+    "Longitude": {
+      "min": -180,
+      "max": 18
+    },
+    "Ammonia and ammonium": {
+      "min": 0,
+      "max": 1,
+      "target": 0
+    },
+    "Temperature, water": {
+      "min": 5,
+      "max": 58
+    },
+    "Temperature, air, deg C": {
+      "min": 5,
+      "max": 58
+    },
+    "Stream flow, instantaneous": {
+      "min": 10,
+      "max": 1000
+    },
+    "Specific conductance": {
+      "min": 0,
+      "max": 1000,
+      "target": 0
+    },
+    "Acidity, (H+)": {
+      "min": 0,
+      "max": 0.005,
+      "target": 0
+    },
+    "pH": {
+      "min": 6.5,
+      "max": 8.5,
+      "target": 7.5
+    },
+    "Total suspended solids": {
+      "min": 0,
+      "max": 10,
+      "target": 0
+    },
+    "Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)": {
+      "min": 0,
+      "max": 6,
+      "target": 0
+    },
+    "Organic Nitrogen": {
+      "min": 0,
+      "max": 6,
+      "target": 0
+    },
+    "Kjeldahl nitrogen": {
+      "min": 0,
+      "max": 6,
+      "target": 0
+    },
+    "Inorganic nitrogen (nitrate and nitrite)": {
+      "min": 0,
+      "max": 6,
+      "target": 0
+    },
+    "Phosphorus": {
+      "min": 0,
+      "max": 0.1,
+      "target": 0
+    },
+    "Oil and Grease": {
+      "min": 0,
+      "max": 0.5,
+      "target": 0
+    },
+    "Detergent, severity (choice list)": {
+      "min": 0,
+      "max": 2,
+      "target": 0
+    },
+    "Floating Garbage Severity (choice List)": {
+      "min": 0,
+      "max": 2,
+      "target": 0
+    },
+    "Floating algae mat - severity (choice list)": {
+      "min": 0,
+      "max": 3,
+      "target": 0
+    },
+    "Floating debris - severity (choice list)": {
+      "min": 0,
+      "max": 2,
+      "target": 0
+    },
+    "Turbidity severity (choice list)": {
+      "min": 0,
+      "max": 2,
+      "target": 0
+    },
+    "Turbidity": {
+      "min": 0,
+      "max": 1,
+      "target": 0
+    }
+}
+  
