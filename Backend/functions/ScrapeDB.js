@@ -2,8 +2,8 @@ const XLSX = require('xlsx');
 const fs = require('fs');
 
 // Read the Excel files
-const stationWorkbook = XLSX.readFile('./Data/station.xlsx');
-const bioResultsWorkbook = XLSX.readFile('./Data/biologicalresult.xlsx');
+const stationWorkbook = XLSX.readFile('./Data/SampleData/station.xlsx');
+const bioResultsWorkbook = XLSX.readFile('./Data/SampleData/biologicalresult.xlsx');
 
 // Get the first worksheet from each workbook
 const stationSheet = stationWorkbook.Sheets[stationWorkbook.SheetNames[0]];
